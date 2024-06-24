@@ -1,0 +1,1 @@
+    # Net.train(save_path = path ,shots = 5)
